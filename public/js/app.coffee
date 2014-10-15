@@ -1,0 +1,3 @@
+$('body').flowtype()
+
+alert "vvvv"
